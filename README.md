@@ -90,7 +90,7 @@ or
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/your-username/starbucks-analysis.git
+git clone https://github.com/akshityagi703760-source/Starbucks-Analysis.git
 ```
 
 2. Open the `.pbix` file using **Power BI Desktop**.
