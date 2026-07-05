@@ -41,22 +41,6 @@ The dashboard is designed to demonstrate data cleaning, data modeling, DAX calcu
 - DAX
 - Microsoft Excel
 
----
-
-## 📂 Project Structure
-
-```
-Starbucks-Analysis/
-│
-├── Starbucks-Analysis.pbix
-├── README.md
-└── screenshots/
-    ├── dashboard.png
-    └── overview.png
-```
-
----
-
 ## 📌 Key Insights
 
 - Analyze calorie distribution across beverages.
@@ -64,40 +48,6 @@ Starbucks-Analysis/
 - Explore sugar levels across products.
 - Identify beverages with the highest nutritional values.
 - Interactive filtering for better decision-making.
-
----
-
-## 📷 Dashboard Preview
-
-> Add your dashboard screenshot here.
-
-Example:
-
-```
-screenshots/dashboard.png
-```
-
-or
-
-```markdown
-![Dashboard](screenshots/dashboard.png)
-```
-
----
-
-## 🚀 How to Use
-
-1. Clone this repository.
-
-```bash
-git clone https://github.com/akshityagi703760-source/Starbucks-Analysis.git
-```
-
-2. Open the `.pbix` file using **Power BI Desktop**.
-
-3. Explore the dashboard using the available slicers and visuals.
-
----
 
 ## 📈 Skills Demonstrated
 
